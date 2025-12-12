@@ -1,0 +1,9 @@
+<resources>
+    <string name="title_activity_first">Tarjeta de Presentación</string>
+    <string name="app_name">Tarjeta de Presentación</string>
+    <string name="full_name">Juan Rodriguez</string>
+    <string name="job_title">Programador</string>
+    <string name="phone_number">3202252636</string>
+    <string name="social_media">@ JuanRo</string>
+    <string name="email_address">juan@gmail.com</string>
+</resources>
